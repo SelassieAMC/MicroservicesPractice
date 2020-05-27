@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "55zKz3826BKFtRCdu8r51sc//5U13UPZ9njc6lHlhCqRArlHFrX36xrJ7oXdL3EawFxI+LThbTgyfgJNzak6fA==",
+  "dgSpecHash": "K3dAzWuG42QikioKrfT5WQLYfAMwECes0LyxvlPmLI1lDhD13mtoLqgiXvR6bT5kpCaz5+vnIgcBZsgSPYnSLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aclavijo\\Documents\\Privado\\Courses\\Depeloping with .Net Azure\\Building secure services and applications\\Practice\\MicroserviceProject\\PricingAPI\\PricingAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\aclavijo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\aclavijo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Al06bukG2Qpv2LJATFDnL9xvJzad8yAzSHW7ycBHlnmgdp8kkrDXzyQ+1Ps1OEWijIzMPXAndO3ELzrzVzErzw==",
+  "dgSpecHash": "Ky4tD68FeczAyHjAgANNsnB57sHz2VUMSh/gPqJ077zgofPw0amzkUNzdq1ObI60ZNNFnu2JyXSnP/HZkdje/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\aclavijo\\Documents\\Privado\\Courses\\Depeloping with .Net Azure\\Building secure services and applications\\Practice\\MicroserviceProject\\Store\\Store.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\aclavijo\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\aclavijo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",

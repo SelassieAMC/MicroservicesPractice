@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  store:
+    image: ${DOCKER_REGISTRY-}store
+    build:
+      context: .
+      dockerfile: Store/Dockerfile
+
+  pricingapi:
+    image: ${DOCKER_REGISTRY-}pricingapi
+    build:
+      context: .
+      dockerfile: PricingAPI/Dockerfile
+
