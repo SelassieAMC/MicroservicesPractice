@@ -2,13 +2,17 @@ version: '3.4'
 
 services:
   store:
-    image: ${DOCKER_REGISTRY-}store
+    image: storeregistrydev.azurecr.io/store:latest
     build:
       context: .
       dockerfile: Store/Dockerfile
+    depends_on:
+        - "pricingapi"
+    ports:
+        - "80:80"
 
   pricingapi:
-    image: ${DOCKER_REGISTRY-}pricingapi
+    image: storeregistrydev.azurecr.io/pricingapi:latest
     build:
       context: .
       dockerfile: PricingAPI/Dockerfile
